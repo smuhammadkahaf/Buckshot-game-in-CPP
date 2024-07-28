@@ -7,7 +7,6 @@ Welcome to the Buckshot Roulette Game, a high-stakes game of chance where player
 - **Item Generator**: Players receive items like cutters, handcuffs, spy glasses, and health kits to gain strategic advantages.
 - **Player Turns**: Both the player and the dealer take turns making choices, such as using items, checking the current shell, and shooting.
 - **Health and Damage**: Each player has health points and can use health kits to recover. Damage can be doubled with the cutter item.
-- **Game Display**: The game provides a clear display of health, inventory, and options for both players.
 
 ## How to Play
 1. **Load the Gun**: The game begins by loading the gun with a mix of live and blank rounds.
